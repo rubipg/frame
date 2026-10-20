@@ -95,7 +95,7 @@ html {
     transition: .25s;
 }
 
-.frame:hover ~ .frame-nav {
+.frame:hover~.frame-nav {
     opacity: 1;
     visibility: visible;
 }
